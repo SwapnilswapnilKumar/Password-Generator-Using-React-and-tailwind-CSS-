@@ -1,3 +1,10 @@
+Here I have created a password generator web app using React JS and Tailwind CSS. 
+In this web app use select number and character checkbox to include numbers and characters in the password.
+Here user can adjust length of the password(In this web app password lenght can be 6 to 100)
+There is a 'copy' button also to copy the generated password
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
