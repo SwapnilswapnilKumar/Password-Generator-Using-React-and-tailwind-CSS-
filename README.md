@@ -3,6 +3,9 @@ In this web app use select number and character checkbox to include numbers and 
 Here user can adjust length of the password(In this web app password lenght can be 6 to 100)
 There is a 'copy' button also to copy the generated password
 
+click on below link to see how it looks like:
+https://67e67460bbcb2ae483485603--rad-cendol-180c47.netlify.app/
+
 
 
 # React + Vite
